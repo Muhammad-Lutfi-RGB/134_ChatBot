@@ -139,10 +139,6 @@ app.post("/api/chat", async (req, res) => {
     }
 });
 
-if (process.env.NODE_ENV !== "production") {
-    app.listen(PORT, () => {
-        console.log(`Server berjalan di http://localhost:${PORT}`);
-    });
-}
-
-module.exports = app;
+app.listen(PORT, () => {
+    console.log(`Server berjalan di http://localhost:${PORT}`);
+});
