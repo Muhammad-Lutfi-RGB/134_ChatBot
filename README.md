@@ -3,3 +3,6 @@ OVERVIEW VERCEL
 
 CHATBOT YANG SUDAH DI DEPLOY
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f5f87042-d413-4fdf-9a32-9476de221005" />
+
+CHATBOT SUDAH TERPROMPT
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/db9bf342-f388-450a-bf6f-6754979a3252" />
